@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+.mainbar {
+    background-color: rgb(231, 229, 229);
+    height: 100vh;
+}
+.mainbar .form-control{
+  background-color: rgb(231, 229, 229);
+  border-color: rgb(57, 125, 125);
+}

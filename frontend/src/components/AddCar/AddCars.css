@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+.addcars {
+    background-color: rgb(231, 229, 229);
+    height: 100vh;
+}
+.addcars .form-control{
+  background-color: rgb(231, 229, 229);
+  border-bottom-style: outset;
+}
+.addcars .form-select{
+    background-color: rgb(231, 229, 229);
+    border-bottom-style: outset;
+}

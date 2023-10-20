@@ -1,0 +1,33 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.listcars{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.listcars .tdcolor{
+    background-color:#cfe2ff;
+    width: 10%;
+
+}
+.listcars .person{
+    font-size: 30px;
+    color: rgba(101, 100, 100, 0.381);
+    justify-content: center;
+    align-items: center;
+    margin-top: 4%;
+  
+  
+}
+.rowcolor{
+    background-color: rgb(231, 229, 229);
+}
+.listcars .custom-td {
+    padding: 20px;
+  } 
+
+
+
+
