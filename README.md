@@ -5,7 +5,7 @@
  Bu uygulama, sisteme kayıt olan kullanıcıların kendi araçlarını sisteme ekleyebildiği bir uygulamadır. Öncelikle her kullanıcı sisteme kullanıcı adı ve şifresini belirleyerek sisteme kayıt olur ve daha sonra sisteme giriş yaparak sistem üzerinde araç  listesini görebilir.Eğer herhangi bir araç kaydı yoksa listeye araç ekleyebilir.Eklediği araç bilgilerini güncelleyebilir,silebilir.Ayrıca  sistemde kullanıcı şifresini güncelleyebilmektedir. Daha sonra kullanıcı hesabını silebilmektedir.
  
  #### Login Sayfası
-<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d3795b3c-1160-44ea-904b-8068c5d5db85" alt="Screenshot" width="500"> | <img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d3795b3c-1160-44ea-904b-8068c5d5db85" alt="Screenshot" width="500"> | <img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d3795b3c-1160-44ea-904b-8068c5d5db85" alt="Screenshot" width="500">>
+|<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d3795b3c-1160-44ea-904b-8068c5d5db85" alt="Screenshot" width="500"> | <img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d3795b3c-1160-44ea-904b-8068c5d5db85" alt="Screenshot" width="500"> | <img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d3795b3c-1160-44ea-904b-8068c5d5db85" alt="Screenshot" width="500">>|
 
 
 #### SignUp Sayfası
