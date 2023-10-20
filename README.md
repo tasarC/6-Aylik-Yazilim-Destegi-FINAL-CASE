@@ -5,7 +5,9 @@
  Bu uygulama, sisteme kayıt olan kullanıcıların kendi araçlarını sisteme ekleyebildiği bir uygulamadır. Öncelikle her kullanıcı sisteme kullanıcı adı ve şifresini belirleyerek sisteme kayıt olur ve daha sonra sisteme giriş yaparak sistem üzerinde araç  listesini görebilir.Eğer herhangi bir araç kaydı yoksa listeye araç ekleyebilir.Eklediği araç bilgilerini güncelleyebilir,silebilir.Ayrıca  sistemde kullanıcı şifresini güncelleyebilmektedir. Daha sonra kullanıcı hesabını silebilmektedir.
  
  #### Login Sayfaları
-![resim](https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/f90c2990-846d-424e-8d17-262b8b3e8022)
+![resim](https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/f90c2990-846d-424e-8d17-262b8b3e8022) | ![resim](https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/07487f7a-32df-46be-bc35-c82fe8ba7c12) | ![resim](https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/3ea005fc-d7bb-4586-a94d-1715fc875fbb)
+
+
 
 
 
