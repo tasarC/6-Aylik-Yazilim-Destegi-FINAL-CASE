@@ -6,7 +6,6 @@
  
  #### Login Sayfaları
 <img src="https://user-images.githubusercontent.com/81915186/235326773-35ab0258-9b2a-429a-a4a0-b81fd668f59b.png" alt="Screenshot" width="500">
-![resim](https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/f5a96944-5545-497c-902c-135a748d5442)
 
 
 #### Yeni veri yükleme kısmı
