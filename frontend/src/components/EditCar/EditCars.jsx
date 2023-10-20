@@ -66,7 +66,7 @@ function Editcars() {
             // Plaka hatalı, işlemi durdurabilirsiniz.
             return;
         }
-        if (!validatePlaka(values.year)) {
+        if (!validateYear(values.year)) {
             // Plaka hatalı, işlemi durdurabilirsiniz.
             return;
         }
