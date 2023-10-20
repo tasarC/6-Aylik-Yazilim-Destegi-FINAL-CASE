@@ -6,6 +6,7 @@
  
  #### Login Sayfası
 |<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d3795b3c-1160-44ea-904b-8068c5d5db85" alt="Screenshot" width="500"> | <img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d3795b3c-1160-44ea-904b-8068c5d5db85" alt="Screenshot" width="500"> | <img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d3795b3c-1160-44ea-904b-8068c5d5db85" alt="Screenshot" width="500">>|
+|:---:|:---:|:---:|
 
 
 #### SignUp Sayfası
