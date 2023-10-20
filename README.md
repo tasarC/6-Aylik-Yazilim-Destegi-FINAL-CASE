@@ -27,7 +27,11 @@
 |<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/3cd874b4-74e4-45ae-8d83-0a6c9359af58" alt="Screenshot" >|<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d79880c7-3ef0-431a-9703-710cf274c7a1" alt="Screenshot" >|
 |:---:|:---:|
 
+#### Hesap Kapatma
+<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/1f58d861-d6e9-42f6-a6fe-661d2683bf6d" alt="Screenshot" >
 
+#### Araç Sorgulama
+<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/9bb82339-0308-448c-a89a-2b003bdd157bt" >
 
 ## Kullanılan Teknolojiler
 
