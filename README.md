@@ -19,6 +19,14 @@
 |<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/0ea3713d-efad-4f24-85cf-eea248e72581" alt="Screenshot" >|<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/925498f4-6b3d-4812-b534-79bfefdbc04a" alt="Screenshot" >|
 |:---:|:---:|
 
+#### Edit Car sayfası
+|<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/f16715e3-e5bc-4e15-8d83-a9edee0a64f3" alt="Screenshot" >|<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/68b6d736-716f-41c9-8bf9-b05fd2828c5b" alt="Screenshot" >|
+|:---:|:---:|
+
+#### Change Password sayfası
+|<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/3cd874b4-74e4-45ae-8d83-0a6c9359af58" alt="Screenshot" >|<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d79880c7-3ef0-431a-9703-710cf274c7a1" alt="Screenshot" >|
+|:---:|:---:|
+
 
 
 ## Kullanılan Teknolojiler
