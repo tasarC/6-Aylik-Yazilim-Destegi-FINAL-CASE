@@ -13,7 +13,7 @@
 |:---:|:---:|:---:|
 
 #### Anasayfa
-<img src="https://user-images.githubusercontent.com/81915186/235326811-9db64ff0-8fc9-490f-b7d0-c57ed346d14e.png" alt="Screenshot" width="500">
+<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/02a311f9-6df1-4be8-aa3e-4a63d92ff80f" alt="Screenshot" width="500">
 
 ## Kullanılan Teknolojiler
 
