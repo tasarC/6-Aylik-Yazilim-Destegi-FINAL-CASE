@@ -33,6 +33,10 @@
 #### Araç Sorgulama
 <img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/9bb82339-0308-448c-a89a-2b003bdd157bt" >
 
+#### Veritabanı Tablo Örneği
+<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/fc657c42-4e41-4a5d-96e8-5e1298bdcaf1" >
+
+
 ## Kullanılan Teknolojiler
 
     React.js
