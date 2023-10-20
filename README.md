@@ -8,12 +8,9 @@
 |<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d3795b3c-1160-44ea-904b-8068c5d5db85" alt="Screenshot" width="500" height="300"> | <img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/2e0e6510-cd57-4849-a740-096f20060900" alt="Screenshot" width="500" height="300"> | <img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d59f7f89-8022-4810-a335-8427c4d87702" alt="Screenshot" width="500" height="300">|
 |:---:|:---:|:---:|
 
-
-
-
 #### SignUp Sayfası
-<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/d3795b3c-1160-44ea-904b-8068c5d5db85" alt="Screenshot" width="500">
-
+|<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/6a070851-1925-4bd9-936d-9cd999e296d2" alt="Screenshot" width="500" height="300">|<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/69356783-c9d2-4ac5-90be-24ebe9e4c904" alt="Screenshot" width="500" height="300">|<img src="https://github.com/tasarC/6-Aylik-Yazilim-Destegi-FINAL-CASE/assets/81915186/eb496db0-d061-4ed1-898f-19d7c18d9b2a" alt="Screenshot" width="500" height="300">|
+|:---:|:---:|:---:|
 
 #### Anasayfa
 <img src="https://user-images.githubusercontent.com/81915186/235326811-9db64ff0-8fc9-490f-b7d0-c57ed346d14e.png" alt="Screenshot" width="500">
